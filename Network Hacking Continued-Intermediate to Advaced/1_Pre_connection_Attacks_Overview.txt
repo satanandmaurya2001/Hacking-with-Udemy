@@ -1,0 +1,8 @@
+1- Pre-Connection Attacks
+
+--> More Advaced pre-connection Attacks
+--> Manually change MAC address on any supported device.
+--> Target 5Ghz Networks and clients
+--> Deauthenticate multiple clients simultaneously
+--> Run deauth attack against multiple networks simultaneously.
+
